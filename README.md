@@ -8,6 +8,8 @@ SuperSoldier를 이용해 군인에게 필요한 자료를 카드와 시험을 �
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
 
+## 정보 
+
 프로젝트명 : SuperSoldier  
 개발자/팀명 : 상병 이수재  
 주요내용 : 군인들에게 필요한 자료들을 모아 각자 공부할 수 있게 하고, 카드를 사용한 간격 반복학습과 시험을 볼 수 있게하는 웹 앱
@@ -44,6 +46,12 @@ https://balsamiq.cloud/so53c72/pjd5yvv/rD872
 
 프로필 메뉴에서 내가 수강하고 있는 자료들, 카드, 시험 모두 볼 수 있습니다.
 ![](http://g.recordit.co/Bq1wGMv9sO.gif)
+
+## 기술 정보
+
+Vue와 Element-UI를 이용해 프론트엔드를 구성하였습니다. 
+Vue-Router를 이용하여 라우팅을 관리합니다.
+Vuex를 이용하여 앱 컴포넌트의 상태를 관리합니다.
 
 ## 컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
 - 앱을 설치하기 위해 node.js가 필요합니다.
